@@ -1,0 +1,28 @@
+name: Downtown Rising
+favicon: null
+layout_spectrum: 0.019774930318817496
+typography_spectrum: 0.32325552799738944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.062086628284305334
+  lightness: 0.26068636565469205
+  saturation: 0.09825629694387317
+  rhythmicContrast: 0.5434289362747222
+purpose: []
