@@ -1,19 +1,4 @@
-name: Downtown Rising
-favicon: null
-layout_spectrum: 0.019774930318817496
 typography_spectrum: 0.32325552799738944
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffc90d'
@@ -25,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.0625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.019774930318817496
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f404a39-5fec-4ba7-8dd4-4f864e82fa7e.jpg
+name: Downtown Rising
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
